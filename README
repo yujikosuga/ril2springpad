@@ -1,7 +1,0 @@
-ugly hack for importing readitlater to springpad:
-convert readitlater export files to delicious import format
-
-usage: ./rilconvert.sh input-filename.html outpad-filename.html
-
-(c) Vinzenz Vietzke <vietzke@b1-systems.de>
-
